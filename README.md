@@ -11,3 +11,4 @@ an alert to confirm addition/deletion of book , and displaying the books in orde
 - usage of the document object model to manipulate html elements
 - usage of javascript local storage to save data
 - perform functions when events are fired
+- used css framework Bootstrap for styling
